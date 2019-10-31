@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_second_text">രണ്ടാമത്തെ വാചകം</string>
+    <string name="txt_first_text">ആദ്യ വാചകം</string>
+    <string name="txt_third_text">മൂന്നാമത്തെ വാചകം</string>
+    <string name="txt_english">English</string>
+    <string name="txt_malayalam">മലയാളം</string>
+    <string name="txt_arabic">عربى</string>
+</resources>

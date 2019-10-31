@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Go Localized</string>
+    <string name="txt_second_text">Second Text</string>
+    <string name="txt_first_text">First Text</string>
+    <string name="txt_third_text">Third text</string>
+    <string name="txt_english">English</string>
+    <string name="txt_malayalam">മലയാളം</string>
+    <string name="txt_arabic">عربى</string>
+
+</resources>
