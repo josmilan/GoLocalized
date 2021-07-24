@@ -20,7 +20,6 @@ object GoLocale {
         return setLocale(context, lang)
     }
 
-
     fun getLanguage(context: Context): String? {
         return getPersistedData(context, Locale.getDefault().language)
     }
